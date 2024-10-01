@@ -1,0 +1,239 @@
+{
+    "The Godfather": {
+        "rating": 9.2,
+        "year": 1972,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0068646",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": "Oldie but goldie"
+    },
+    "The Room": {
+        "rating": 3.6,
+        "year": 2003,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2IwYzc4MjEtMzJlMS00MDJlLTkzNDAtN2E4NGNkZjg0MDgxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0368226",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "The Shawshank Redemption": {
+        "rating": 9.3,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0111161",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Titanic": {
+        "rating": 7.9,
+        "year": 1997,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120338",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png",
+            "https://flagsapi.com/MX/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "The Notebook": {
+        "rating": 7.8,
+        "year": 2004,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNzc3Mzg1OGYtZjc3My00Y2NhLTgyOWUtYjRhMmI4OTkwNDg4XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0332280",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Pulp Fiction": {
+        "rating": 8.9,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0110912",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Fight Club": {
+        "rating": 8.8,
+        "year": 1999,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0137523",
+        "flag_url": [
+            "https://flagsapi.com/DE/shiny/64.png",
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Interstellar": {
+        "rating": 8.7,
+        "year": 2014,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0816692",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png",
+            "https://flagsapi.com/GB/shiny/64.png",
+            "https://flagsapi.com/CA/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "The Godfather Part II": {
+        "rating": 9.0,
+        "year": 1974,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0071562",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Forrest Gump": {
+        "rating": 8.8,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0109830",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Everything Everywhere All at Once": {
+        "rating": 7.8,
+        "year": 2022,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt6710474",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "The Theory of Everything": {
+        "rating": 7.7,
+        "year": 2014,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt2980516",
+        "flag_url": [
+            "https://flagsapi.com/GB/shiny/64.png",
+            "https://flagsapi.com/JP/shiny/64.png",
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "The Dark Knight": {
+        "rating": 9.0,
+        "year": 2008,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0468569",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png",
+            "https://flagsapi.com/GB/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Batman Returns": {
+        "rating": 7.1,
+        "year": 1992,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0103776",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png",
+            "https://flagsapi.com/GB/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "The Batman": {
+        "rating": 7.8,
+        "year": 2022,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BOGE2NWUwMDItMjA4Yi00N2Y3LWJjMzEtMDJjZTMzZTdlZGE5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt1877830",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "12 Angry Men": {
+        "rating": 9.0,
+        "year": 1957,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0050083",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Star Wars: Episode V - The Empire Strikes Back": {
+        "rating": 8.7,
+        "year": 1980,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0080684",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png",
+            "https://flagsapi.com/GB/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Source Code": {
+        "rating": 7.5,
+        "year": 2011,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY0MTc3MzMzNV5BMl5BanBnXkFtZTcwNDE4MjE0NA@@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0945513",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png",
+            "https://flagsapi.com/CA/shiny/64.png",
+            "https://flagsapi.com/FR/shiny/64.png",
+            "https://flagsapi.com/DE/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Nocturnal Animals": {
+        "rating": 7.5,
+        "year": 2016,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt4550098",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png",
+            "https://flagsapi.com/CN/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Buried": {
+        "rating": 7.0,
+        "year": 2010,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZTRmZmIxMDktZjVmMS00NmFiLWExNmMtMzg0MTIyZDYwNWZjXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt1462758",
+        "flag_url": [
+            "https://flagsapi.com/ES/shiny/64.png",
+            "https://flagsapi.com/GB/shiny/64.png",
+            "https://flagsapi.com/FR/shiny/64.png",
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Brokeback Mountain": {
+        "rating": 7.7,
+        "year": 2005,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNTM4NTFiZGMtNjljZi00MDIzLWJkNTctMzA0NWViNjYxMDY1XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0388795",
+        "flag_url": [
+            "https://flagsapi.com/CA/shiny/64.png",
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Confessions of a Shopaholic": {
+        "rating": 5.8,
+        "year": 2009,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNzgzYjZjY2EtYzQ1Ny00YmEyLWFkZjMtMTM1MjEzZjRmNjc2XkEyXkFqcGc@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt1093908",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": "Never ever watch this movie"
+    }
+}

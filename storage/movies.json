@@ -1,0 +1,56 @@
+{
+    "The Godfather": {
+        "rating": 9.2,
+        "year": 1972,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0068646",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": "Oldie but goldie"
+    },
+    "Titanic": {
+        "rating": 7.9,
+        "year": 1997,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120338",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png",
+            "https://flagsapi.com/MX/shiny/64.png"
+        ],
+        "user_note": "Oldie but bronzy"
+    },
+    "The Room": {
+        "rating": 3.6,
+        "year": 2003,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2IwYzc4MjEtMzJlMS00MDJlLTkzNDAtN2E4NGNkZjg0MDgxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0368226",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "Source Code": {
+        "rating": 7.5,
+        "year": 2011,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY0MTc3MzMzNV5BMl5BanBnXkFtZTcwNDE4MjE0NA@@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0945513",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png",
+            "https://flagsapi.com/CA/shiny/64.png",
+            "https://flagsapi.com/FR/shiny/64.png",
+            "https://flagsapi.com/DE/shiny/64.png"
+        ],
+        "user_note": ""
+    },
+    "The Shawshank Redemption": {
+        "rating": 9.3,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0111161",
+        "flag_url": [
+            "https://flagsapi.com/US/shiny/64.png"
+        ],
+        "user_note": ""
+    }
+}

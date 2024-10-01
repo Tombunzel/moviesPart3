@@ -1,0 +1,10 @@
+{
+    "Dogs": {
+        "rating": 7.0,
+        "year": 2016,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BYWJiYjI1MzEtMzQzOS00ZjkxLWI3NDAtMzNkODhjYjM0Y2ExXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt5088794",
+        "flag_url": "https://flagsapi.com/RO/shiny/64.png",
+        "user_note": ""
+    }
+}
