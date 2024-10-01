@@ -2,7 +2,7 @@ import difflib
 import random
 import sys
 import requests
-import data_fetcher
+from data import data_fetcher
 
 
 class MovieApp:

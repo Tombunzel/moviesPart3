@@ -12,16 +12,6 @@
         ],
         "user_note": "Jake the goat"
     },
-    "The Room": {
-        "rating": 3.6,
-        "year": 2003,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2IwYzc4MjEtMzJlMS00MDJlLTkzNDAtN2E4NGNkZjg0MDgxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX300.jpg",
-        "imdb_url": "https://www.imdb.com/title/tt0368226",
-        "flag_url": [
-            "https://flagsapi.com/US/shiny/64.png"
-        ],
-        "user_note": ""
-    },
     "Titanic": {
         "rating": 7.9,
         "year": 1997,
@@ -63,6 +53,22 @@
         "flag_url": [
             "https://flagsapi.com/US/shiny/64.png"
         ],
+        "user_note": ""
+    },
+    "The Good, the Bad and the Ugly": {
+        "rating": 8.8,
+        "year": 1966,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0060196",
+        "flag_url": "https://flagsapi.com/IT/shiny/64.png",
+        "user_note": "western"
+    },
+    "Shutter Island": {
+        "rating": 8.2,
+        "year": 2010,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt1130884",
+        "flag_url": "https://flagsapi.com/US/shiny/64.png",
         "user_note": ""
     }
 }
