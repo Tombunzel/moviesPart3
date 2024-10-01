@@ -46,7 +46,7 @@ class MovieApp:
 
     def _command_list_movies(self):
         """
-        prints all movies in storage
+        prints all movies in data
         """
         movies = self._storage.get_movies()
         print(f"\n{len(movies)} movies in total:")
@@ -108,7 +108,7 @@ class MovieApp:
 
     def _command_delete_movie(self):
         """
-        removes a movie from storage according to user's input
+        removes a movie from data according to user's input
         :return: -
         """
         movies = self._storage.get_movies()
@@ -127,7 +127,7 @@ class MovieApp:
 
     def _command_update_movie(self):
         """
-        Allows user to insert a note to a movie in storage
+        Allows user to insert a note to a movie in data
         movie_titles_lower is a dict of lowercase titles referring to the correct titles
         """
         movies = self._storage.get_movies()
@@ -237,7 +237,7 @@ class MovieApp:
 
     def _command_random_movie(self):
         """
-        print a random movie from storage
+        print a random movie from data
         :return: -
         """
         movies = self._storage.get_movies()
@@ -383,7 +383,7 @@ class MovieApp:
     def _create_html(self, template):
         """creates a new html file using the template and a dict of all movies"""
         movies = self._storage.get_movies()
-        site_title = "Tom's Movies Site"
+        site_title = "My Movies Site"
         with open("_static/index.html", "w", encoding="UTF-8") as handle:
             output = template
             output = output.replace("__TEMPLATE_TITLE__", site_title)
