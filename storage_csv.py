@@ -2,7 +2,7 @@ from istorage import IStorage
 
 
 class StorageCsv(IStorage):
-    """Class to handle csv storage"""
+    """Class to handle csv data"""
     def __init__(self, file_path):
         """constructor"""
         self.file_path = file_path
@@ -11,7 +11,7 @@ class StorageCsv(IStorage):
         """
         Gets movies as an argument and saves them to the csv file.
         """
-        with open(self.file_path, "w", encoding="UTF-8") as fileobj:
+        with open(f'data/{self.file_path}', "w", encoding="UTF-8") as fileobj:
             output = 'title,year,rating,poster_url,imdb_url,flag_url,user_note\n'
             for movie, infos in new_movies.items():
                 output += (f'{movie},{infos["year"]},{infos["rating"]},{infos["poster_url"]},'
@@ -22,7 +22,7 @@ class StorageCsv(IStorage):
         """gets movies from the csv file, if the file doesn't exist, it creates a new one
         returns the movies in the csv file"""
         try:
-            with open(self.file_path, "r", encoding="UTF-8") as fileobj:
+            with open(f'data/{self.file_path}', "r", encoding="UTF-8") as fileobj:
                 movies = {}
                 next(fileobj)  # skipping the first line of headers in the csv file
                 for line in fileobj:
@@ -36,14 +36,14 @@ class StorageCsv(IStorage):
                                          }
                 return movies
         except FileNotFoundError:
-            with open(self.file_path, "w", encoding="UTF-8") as fileobj:
+            with open(f'data/{self.file_path}', "w", encoding="UTF-8") as fileobj:
                 movies = 'title,rating,year,poster_url,imdb_url,flag_url,user_note\n'
                 fileobj.write(movies)
                 print(f"\n\033[33mCreated new file '{self.file_path}'\033[00m")
                 return {}
 
     def list_movies(self):
-        """list all movies in storage"""
+        """list all movies in data"""
         movies = self.get_movies()
         for movie, infos in movies.items():
             print(f"{movie} ({infos['year']}): {infos['rating']}")
@@ -58,7 +58,7 @@ class StorageCsv(IStorage):
         self.save_movies(movies)
 
     def delete_movie(self, title):
-        """delete movie from storage"""
+        """delete movie from data"""
         movies = self.get_movies()
         del movies[title]
         self.save_movies(movies)
